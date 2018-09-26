@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Hello PHP!</title>	
+</head>
+<body>
+	<?php 
+      
+      //imprime o Hello World!
+      echo "<h1>Hello World PHP!</h1>";
+      /*
+      bla bla bla 
+      comentários maiores 
+      enchendo linguiça
+      */
+     # Esse também serve pra comentar - - - -pepeka pepeka pepeka
+
+	?>
+</body>
+
+</html>
