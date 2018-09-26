@@ -6,6 +6,7 @@
 	<?php 
       
       //imprime o Hello World!
+	// teste de git pull
       echo "<h1>Hello World PHP!</h1>";
       /*
       bla bla bla 
