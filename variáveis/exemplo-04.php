@@ -1,11 +1,13 @@
 <?php
 
-$nome = (int)$_GET["a"];
+#$nome = (int)$_GET["a"];
 
-#var_dump($nome);
 
-$ip = $_SERVER["SCRIPT_NAME"];
+$nome = "Luis";
+var_dump($nome);
 
-echo $ip;
+#$ip = $_SERVER["SCRIPT_NAME"];
+
+#echo $ip;
 
   ?>
