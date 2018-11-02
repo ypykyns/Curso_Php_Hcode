@@ -17,7 +17,7 @@ if (isset($_GET)){
 
 	// um linha horizontal
 	echo "<hr>";
-
+	// teste
    }
 }
 
