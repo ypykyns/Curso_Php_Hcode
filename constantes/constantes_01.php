@@ -20,6 +20,7 @@ echo "<br>";
 echo "<br>";
 
 
+//  teste de commit
 // PARA CASE INCENSITIVE usa true no final (não é uma prática usual)
 
 /*
